@@ -1,3 +1,10 @@
+#roring tutorial 
+
+## "yo sup world!"
+
+This is a tutorial from railstutorial.org by michealhartl
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
